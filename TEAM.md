@@ -5,8 +5,6 @@ Name: Flings
 Role: Crypto-coin specialist
 <br>
 Expericence: 18 years
-<br>
-<br>
 ## Founder 2
 <br>
 Name: Poirot
