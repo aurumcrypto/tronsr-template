@@ -1,11 +1,14 @@
 ## Founder
 
 Name: Flings
+<br>
 Role: Crypto-coin specialist
+<br>
 Expericence: 18 years
-
+<br>
+<br>
 ## Founder
-
+<br>
 Name: Poirot
 Role: Blockchain expert
 Expericence: 18 years
