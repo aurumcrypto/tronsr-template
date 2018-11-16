@@ -1,1 +1,2 @@
-Describe your server configuration
+Primary server in Brazil.
+Backup server is US.
